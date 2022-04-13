@@ -10,7 +10,7 @@
 
 #### Hello! I'm Lindsay.
 
-I have no personal pronouns (not to say that I don't use pronouns, I just don't have a preference for which ones you use she/her, they/them, he/him, etc.). I'm a jack of many trades troubleshooter expanding my horizons as well as growing and adapting my skills into a software engineering career. I enjoy solving problems with intuitive, innovative solutions and helping others. I believe there's always room for improvement and that individuality should be embraced and cultivated to grow a progressive furture. In my off time, I enjoy being outdoors, traveling, fishing, hiking, garage projects, and more.
+I have no pronoun preference. I'm a jack of many trades troubleshooter expanding my horizons as well as growing and adapting my skills into a software engineering career. I enjoy solving problems with intuitive, innovative solutions and helping others. I believe there's always room for improvement and that individuality should be embraced and cultivated to grow a progressive furture. In my off time, I enjoy being outdoors, traveling, fishing, hiking, garage projects, and more.
 
 ### GitHub Stats
   
