@@ -10,7 +10,7 @@
 
 #### Hello! I'm Lindsay.
 
-I have no pronoun preference. I'm a jack of many trades troubleshooter expanding my horizons as well as growing and adapting my skills into a software engineering career. I enjoy solving problems with intuitive, innovative solutions and helping others. I believe there's always room for improvement and that individuality should be embraced and cultivated to grow a progressive furture. In my off time, I enjoy being outdoors, traveling, fishing, hiking, garage projects, and more.
+I have no pronoun preference. I'm a jack of many trades troubleshooter expanding my horizons as well as growing and adapting my skills into a software engineering career. I enjoy solving problems with intuitive, innovative solutions and helping others. I believe there's always room for improvement and that individuality should be embraced and cultivated to grow a progressive future. In my off time, I enjoy being outdoors, traveling, fishing, hiking, garage projects, and more.
 
 ### GitHub Stats
   
@@ -50,7 +50,6 @@ I have no pronoun preference. I'm a jack of many trades troubleshooter expanding
 ![PropTypes](https://img.shields.io/badge/Propypes-V1.1.0-yellow#:~:text=PropTypes-,PropTypes,-V1.1.0)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
