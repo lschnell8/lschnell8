@@ -10,7 +10,7 @@
 
 #### Hello! I'm Lindsay.
 
-Any pronouns is alright with me. I'm a jack of many trades troubleshooter expanding my horizons as well as growing and adapting my skills into a software engineering career. I enjoy solving problems with intuitive, innovative solutions and helping others. I believe there's always room for improvement and that individuality should be embraced and cultivated to grow a progressive future. In my off time, I enjoy being outdoors, traveling, fishing, hiking, garage projects, and more.
+Any pronouns are alright with me. I'm a jack of many trades troubleshooter expanding my horizons as well as growing and adapting my skills into a software engineering career. I enjoy solving problems with intuitive, innovative solutions and helping others. I believe there's always room for improvement and that individuality should be embraced and cultivated to grow a progressive future. In my off time, I enjoy being outdoors, traveling, games, hiking, garage projects, and more.
 
 ### GitHub Stats
   
